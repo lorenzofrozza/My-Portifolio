@@ -1,0 +1,125 @@
+*{
+    margin: 0 auto; /*Alterando margem do site*/
+    box-sizing: border-box; /*Alterando características da borda*/
+    text-align: justify; /* Alinhamento de texto*/
+    }
+    .pai{
+    width: 60%; /* Alterando largura do mesmo*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Alterando a fonte*/
+    }
+    .pai1{
+        width: 60%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    .limpar{
+    clear: both; 
+    }
+    .topo{
+    height: 80px; /*Alterando altura da box*/
+    background-color: lightslategray; /* Alterando a cor de fundo*/
+    margin-top: 20px; /*Alterando a margem*/
+    color: white; /*Alterando a cor do mesmo*/
+    font-size: 20px; /* Alterando o tamanho da fonte*/
+    text-align: center; /* Centralizando o texto*/
+    }
+    
+    .topo1{
+        height: 80px;
+        background-color: lightslategray;
+        margin-top: 20px;
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        }
+
+    .topo span{
+    margin: 0 20px;
+    padding-top: 10px; /* Alterando o preenchimento da página*/
+    display: inline-block; /* Alterando as características do display*/
+    }
+    .topo1 span{
+        margin: 0 20px;
+        padding-top: 10px;
+        display: inline-block;
+        }
+
+    .topo img{
+    height: 35px;
+    width: 35px;
+
+    }
+    .topo1 img{
+        height: 35px;
+        width: 35px;
+        }
+    .perfil{
+    height: 200px;
+    border-bottom: 2px solid; /*Alterando características e tamanho das bordas*/ 
+    }
+    .dados{
+    width: 60%;
+    float: left; /* Posicionamento do site*/
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 20px;
+    }
+    .dados p{ 
+    font-size: 20px; /*Alterando tamanho da fonte de meus dados pessoais.*/
+    }
+
+    .foto{
+    width: 40%;
+    float: left;
+    }
+    
+    .foto img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%; /* Alterando arredondamento da borda*/
+    margin-top: 30px;
+    clear: both;
+    }
+    .experiencias{
+    width: 60%;
+    float: left;
+    padding-left: 5px;
+    }
+    .experiencias h2{
+    text-decoration: underline; /* Alterando características do texto*/
+    }
+    .experiencias p{
+    padding-left: 20px;
+    }
+    .tech{
+    width: 40%;
+    float: left;
+    border-left: 2px solid;
+    padding-left: 5px;
+    }
+    .tech h2{
+    text-decoration: underline;
+    }
+    .tech p{
+    width: 50%;
+    float: left;
+    clear: both;
+    margin-bottom: 5px;
+    }
+    .circulo{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 5px;
+    float: left;
+    }
+
+    .circulo1{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border-bottom: solid 5px black;
+    background-color: lightslategray;
+    margin-right: 5px;
+    float: left;
+    }
